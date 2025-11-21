@@ -1,0 +1,22 @@
+########################
+# Playwright / Chrome profilok
+########################
+chrome_profile/
+ChatGPT/chrome_profile/
+Gemini/gemini_profile/
+
+########################
+# Aider fájlok
+########################
+.aider*
+!.aider.model.metadata.json
+aider*.txt
+aider*.log
+
+########################
+# Cookie + localStorage dumpok
+########################
+cookies.txt
+localstorage.txt
+**/cookies.txt
+**/localstorage.txt

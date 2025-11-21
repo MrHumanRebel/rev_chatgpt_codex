@@ -1,0 +1,18 @@
+{
+  "openai/gpt-4o-playwright": {
+    "mode": "chat",
+    "max_input_tokens": 128000,
+    "max_output_tokens": 16384,
+    "max_tokens": 16384,
+    "input_cost_per_token": 0.0,
+    "output_cost_per_token": 0.0
+  },  
+  "openai/gemini-playwright": {
+    "mode": "chat",
+    "max_input_tokens": 128000,
+    "max_output_tokens": 16384,
+    "max_tokens": 16384,
+    "input_cost_per_token": 0.0,
+    "output_cost_per_token": 0.0
+  }
+}
